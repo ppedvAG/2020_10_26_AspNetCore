@@ -1,0 +1,3 @@
+@Imports ASPNet_WebAPI_Overview.Areas.HelpPage.ModelDescriptions
+@ModelType SimpleTypeModelDescription
+@Model.Documentation
