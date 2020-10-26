@@ -1,0 +1,27 @@
+﻿@page
+
+@{ // Anonyme Function 
+    //C# Code
+    string name = string.Empty;
+
+    if (Request.HasFormContentType) //wurde ein Formular verwendet?
+    {
+        name = Request.Form["name"]; //lese <input type="submit" /> aus und speicher die Textboxeingabe als Variable -> name
+    }
+
+}
+
+//HTML 
+<div>
+    <form method="post">
+        <div>Name: <input name="name" /></div>
+        <div><input type="submit" /> </div>
+    </form>
+</div>
+
+<div>
+    @if(!string.IsNullOrEmpty(name)) //Ist die Variable name ausgefüllt? Dann ->
+    {
+        <p>Hello @name!</p>
+    }
+</div>

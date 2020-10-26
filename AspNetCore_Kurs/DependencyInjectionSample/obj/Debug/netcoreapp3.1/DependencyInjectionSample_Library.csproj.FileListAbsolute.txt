@@ -1,0 +1,9 @@
+C:\Aktueller Kurs\2020_10_26_AspNetCore\AspNetCore_Kurs\DependencyInjectionSample\bin\Debug\netcoreapp3.1\DependencyInjectionSample_Library.deps.json
+C:\Aktueller Kurs\2020_10_26_AspNetCore\AspNetCore_Kurs\DependencyInjectionSample\bin\Debug\netcoreapp3.1\DependencyInjectionSample_Library.dll
+C:\Aktueller Kurs\2020_10_26_AspNetCore\AspNetCore_Kurs\DependencyInjectionSample\bin\Debug\netcoreapp3.1\DependencyInjectionSample_Library.pdb
+C:\Aktueller Kurs\2020_10_26_AspNetCore\AspNetCore_Kurs\DependencyInjectionSample\obj\Debug\netcoreapp3.1\DependencyInjectionSample_Library.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\2020_10_26_AspNetCore\AspNetCore_Kurs\DependencyInjectionSample\obj\Debug\netcoreapp3.1\DependencyInjectionSample_Library.AssemblyInfo.cs
+C:\Aktueller Kurs\2020_10_26_AspNetCore\AspNetCore_Kurs\DependencyInjectionSample\obj\Debug\netcoreapp3.1\DependencyInjectionSample_Library.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\2020_10_26_AspNetCore\AspNetCore_Kurs\DependencyInjectionSample\obj\Debug\netcoreapp3.1\DependencyInjectionSample_Library.dll
+C:\Aktueller Kurs\2020_10_26_AspNetCore\AspNetCore_Kurs\DependencyInjectionSample\obj\Debug\netcoreapp3.1\DependencyInjectionSample_Library.pdb
+C:\Aktueller Kurs\2020_10_26_AspNetCore\AspNetCore_Kurs\DependencyInjectionSample\obj\Debug\netcoreapp3.1\DependencyInjectionSample_Library.csprojAssemblyReference.cache

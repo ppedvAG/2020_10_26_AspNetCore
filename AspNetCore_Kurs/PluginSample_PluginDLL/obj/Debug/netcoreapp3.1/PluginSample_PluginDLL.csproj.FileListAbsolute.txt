@@ -1,0 +1,8 @@
+C:\Aktueller Kurs\2020_10_26_AspNetCore\AspNetCore_Kurs\PluginSample_PluginDLL\bin\Debug\netcoreapp3.1\PluginSample_PluginDLL.deps.json
+C:\Aktueller Kurs\2020_10_26_AspNetCore\AspNetCore_Kurs\PluginSample_PluginDLL\bin\Debug\netcoreapp3.1\PluginSample_PluginDLL.dll
+C:\Aktueller Kurs\2020_10_26_AspNetCore\AspNetCore_Kurs\PluginSample_PluginDLL\bin\Debug\netcoreapp3.1\PluginSample_PluginDLL.pdb
+C:\Aktueller Kurs\2020_10_26_AspNetCore\AspNetCore_Kurs\PluginSample_PluginDLL\obj\Debug\netcoreapp3.1\PluginSample_PluginDLL.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\2020_10_26_AspNetCore\AspNetCore_Kurs\PluginSample_PluginDLL\obj\Debug\netcoreapp3.1\PluginSample_PluginDLL.AssemblyInfo.cs
+C:\Aktueller Kurs\2020_10_26_AspNetCore\AspNetCore_Kurs\PluginSample_PluginDLL\obj\Debug\netcoreapp3.1\PluginSample_PluginDLL.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\2020_10_26_AspNetCore\AspNetCore_Kurs\PluginSample_PluginDLL\obj\Debug\netcoreapp3.1\PluginSample_PluginDLL.dll
+C:\Aktueller Kurs\2020_10_26_AspNetCore\AspNetCore_Kurs\PluginSample_PluginDLL\obj\Debug\netcoreapp3.1\PluginSample_PluginDLL.pdb

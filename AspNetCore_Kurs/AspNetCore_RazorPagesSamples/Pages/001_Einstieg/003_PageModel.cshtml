@@ -1,0 +1,26 @@
+﻿@page
+@model AspNetCore_RazorPagesSamples.Pages._001_Einstieg._003_PageModelModel
+@{
+}
+
+
+
+
+<div style="margin-top:30px;">
+    <form method="post">
+        <div>Name: <input name="name" /></div>
+        <div><input type="submit" /></div>
+    </form>
+    @if (!string.IsNullOrEmpty(Model.Name)) 
+    {
+        <p>Hello @Model.Name!</p>
+
+        <p>@Model.abcdefg</p>
+    }
+</div>
+
+@{ 
+    
+    //C# Block 
+    //anonyme Meethode
+}
