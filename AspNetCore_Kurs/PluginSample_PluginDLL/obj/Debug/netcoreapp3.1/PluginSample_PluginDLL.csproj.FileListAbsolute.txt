@@ -6,3 +6,4 @@ C:\Aktueller Kurs\2020_10_26_AspNetCore\AspNetCore_Kurs\PluginSample_PluginDLL\o
 C:\Aktueller Kurs\2020_10_26_AspNetCore\AspNetCore_Kurs\PluginSample_PluginDLL\obj\Debug\netcoreapp3.1\PluginSample_PluginDLL.csproj.CoreCompileInputs.cache
 C:\Aktueller Kurs\2020_10_26_AspNetCore\AspNetCore_Kurs\PluginSample_PluginDLL\obj\Debug\netcoreapp3.1\PluginSample_PluginDLL.dll
 C:\Aktueller Kurs\2020_10_26_AspNetCore\AspNetCore_Kurs\PluginSample_PluginDLL\obj\Debug\netcoreapp3.1\PluginSample_PluginDLL.pdb
+C:\Aktueller Kurs\2020_10_26_AspNetCore\AspNetCore_Kurs\PluginSample_PluginDLL\obj\Debug\netcoreapp3.1\PluginSample_PluginDLL.csprojAssemblyReference.cache

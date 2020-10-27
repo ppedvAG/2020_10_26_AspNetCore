@@ -1,0 +1,44 @@
+﻿@page
+@model AspNetCore_RazorPagesSamples.Pages._002_RazorSyntax.RazorSyntax2Model
+Ein einfaches @@-Zeichen reicht aus.
+@{var numbers = Enumerable.Range(1, 10);}
+
+@*Beispiel1*@
+@foreach (var number in numbers)
+{
+    @number
+}
+
+
+@*Beispiel2*@
+@foreach (var number in numbers)
+{
+    @( number * 10 )//Einfache Verschachtlungen, bzw kleine berechnungen oder formatierungen(bei strings(
+}
+
+@*Beispiel 3*@
+@foreach (var number in numbers)
+{
+    @(number * 10)@:&nbsp;
+}
+
+
+
+<p>Beispiel 4:</p>
+<br />
+@*Beispiel 4*@
+@*Sie müssen den Operator @: nur einmal pro Zeile verwenden: *@
+@foreach (var number in numbers)
+{
+    @(number * 10)@: * 10 = @(number * 10)
+}
+
+
+<p>Beispiel 5</p>
+@foreach (var number in numbers)
+{
+    <span>@(number * 10)&nbsp;</span>
+}
+
+
+

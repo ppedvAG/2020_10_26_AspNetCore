@@ -1,0 +1,13 @@
+- Envirement Variable (15Min)
+- Configurations auslesen (3 Beispiele) (15-30min)
+
+- ConnectionString verschlüsseln (generell Anwendung) (15-30?)
+- AttributeRouting (15min)
+
+- WebAPI + Swagger (2 Std 2-x)
+
+- EF Core (DbFirst (erklären), CodeFirst, Reverse CodeFirst) (1-2)
+
+- https://www.tutorialspoint.com/asp.net_core/asp.net_core_user_registration.htm
+
+- Abschlus Project (2-3) 

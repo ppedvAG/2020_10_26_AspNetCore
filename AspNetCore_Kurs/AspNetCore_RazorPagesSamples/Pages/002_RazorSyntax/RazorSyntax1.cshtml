@@ -1,0 +1,14 @@
+﻿@page
+@model AspNetCore_RazorPagesSamples.Pages._002_RazorSyntax.RazorSyntax1Model
+@{
+}
+
+@{ 
+    var numbers = Enumerable.Range(1, 10); //Gebe die Zahlen von 1 - 10 zurück
+
+    foreach (var number in numbers)
+    {
+        @number
+    }
+
+}

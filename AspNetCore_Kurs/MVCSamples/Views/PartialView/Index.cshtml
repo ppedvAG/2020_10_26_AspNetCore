@@ -1,0 +1,23 @@
+﻿
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Index</h1>
+
+<partial name="_HelloPartialView" />
+
+@Html.Partial("_HelloPartialView"); // das Ergebnis wird in HMTL gerendet -> <partial\>
+
+
+    @{
+        object obj = null;
+
+        lock (obj)
+        {
+            Html.RenderPartial("_HelloPartialView");
+        }
+
+
+    }

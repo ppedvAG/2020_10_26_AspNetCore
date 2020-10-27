@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "PluginSample_TheApp_Console/1.0.0": {
+        "dependencies": {
+          "PluginSample_PluginDLL": "1.0.0",
+          "PluginSample_ThePlugin": "1.0.0"
+        },
+        "runtime": {
+          "PluginSample_TheApp_Console.dll": {}
+        }
+      },
+      "PluginSample_PluginDLL/1.0.0": {
+        "runtime": {
+          "PluginSample_PluginDLL.dll": {}
+        }
+      },
+      "PluginSample_ThePlugin/1.0.0": {
+        "dependencies": {
+          "PluginSample_PluginDLL": "1.0.0"
+        },
+        "runtime": {
+          "PluginSample_ThePlugin.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PluginSample_TheApp_Console/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PluginSample_PluginDLL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PluginSample_ThePlugin/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

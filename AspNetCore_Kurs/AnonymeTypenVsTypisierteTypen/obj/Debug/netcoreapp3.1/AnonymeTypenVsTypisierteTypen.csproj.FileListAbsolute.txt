@@ -1,0 +1,12 @@
+C:\Aktueller Kurs\2020_10_26_AspNetCore\AspNetCore_Kurs\AnonymeTypenVsTypisierteTypen\bin\Debug\netcoreapp3.1\AnonymeTypenVsTypisierteTypen.exe
+C:\Aktueller Kurs\2020_10_26_AspNetCore\AspNetCore_Kurs\AnonymeTypenVsTypisierteTypen\bin\Debug\netcoreapp3.1\AnonymeTypenVsTypisierteTypen.deps.json
+C:\Aktueller Kurs\2020_10_26_AspNetCore\AspNetCore_Kurs\AnonymeTypenVsTypisierteTypen\bin\Debug\netcoreapp3.1\AnonymeTypenVsTypisierteTypen.runtimeconfig.json
+C:\Aktueller Kurs\2020_10_26_AspNetCore\AspNetCore_Kurs\AnonymeTypenVsTypisierteTypen\bin\Debug\netcoreapp3.1\AnonymeTypenVsTypisierteTypen.runtimeconfig.dev.json
+C:\Aktueller Kurs\2020_10_26_AspNetCore\AspNetCore_Kurs\AnonymeTypenVsTypisierteTypen\bin\Debug\netcoreapp3.1\AnonymeTypenVsTypisierteTypen.dll
+C:\Aktueller Kurs\2020_10_26_AspNetCore\AspNetCore_Kurs\AnonymeTypenVsTypisierteTypen\bin\Debug\netcoreapp3.1\AnonymeTypenVsTypisierteTypen.pdb
+C:\Aktueller Kurs\2020_10_26_AspNetCore\AspNetCore_Kurs\AnonymeTypenVsTypisierteTypen\obj\Debug\netcoreapp3.1\AnonymeTypenVsTypisierteTypen.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\2020_10_26_AspNetCore\AspNetCore_Kurs\AnonymeTypenVsTypisierteTypen\obj\Debug\netcoreapp3.1\AnonymeTypenVsTypisierteTypen.AssemblyInfo.cs
+C:\Aktueller Kurs\2020_10_26_AspNetCore\AspNetCore_Kurs\AnonymeTypenVsTypisierteTypen\obj\Debug\netcoreapp3.1\AnonymeTypenVsTypisierteTypen.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\2020_10_26_AspNetCore\AspNetCore_Kurs\AnonymeTypenVsTypisierteTypen\obj\Debug\netcoreapp3.1\AnonymeTypenVsTypisierteTypen.dll
+C:\Aktueller Kurs\2020_10_26_AspNetCore\AspNetCore_Kurs\AnonymeTypenVsTypisierteTypen\obj\Debug\netcoreapp3.1\AnonymeTypenVsTypisierteTypen.pdb
+C:\Aktueller Kurs\2020_10_26_AspNetCore\AspNetCore_Kurs\AnonymeTypenVsTypisierteTypen\obj\Debug\netcoreapp3.1\AnonymeTypenVsTypisierteTypen.genruntimeconfig.cache

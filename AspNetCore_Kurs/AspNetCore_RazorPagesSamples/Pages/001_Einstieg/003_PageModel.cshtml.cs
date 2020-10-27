@@ -7,15 +7,22 @@ using Microsoft.AspNetCore.Mvc.RazorPages;
 
 namespace AspNetCore_RazorPagesSamples.Pages._001_Einstieg
 {
-    public class _003_PageModelModel : PageModel
+
+    //ViewModel -> 
+    public class _003_PageModelModel : PageModel 
     {
         [BindProperty]
         public string Name { get; set; }
         public int abcdefg { get; set; }
+
+
+        public Person MyPerson { get; set; }
         public void OnGet()
         {
-        }
+            MyPerson = new Person();
 
+            MyPerson.Firstname = "Snoopy";
+        }
 
         public void OnPost() // Push auf Submit-Button, gelangt man in die OnPost Methode
         {
@@ -24,5 +31,12 @@ namespace AspNetCore_RazorPagesSamples.Pages._001_Einstieg
                 Name = Request.Form["name"]; // obselte, weil das Binding den Wert vom Formular in die Variable Name übertragt. Beide sind miteinander Verbunden. 
             }
         }
+    }
+
+
+    public class Person
+    {
+        public string Firstname { get; set; }
+        public string Lastname { get; set; }
     }
 }

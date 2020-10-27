@@ -37,3 +37,9 @@ C:\Aktueller Kurs\2020_10_26_AspNetCore\AspNetCore_Kurs\AspNetCore_RazorPagesSam
 C:\Aktueller Kurs\2020_10_26_AspNetCore\AspNetCore_Kurs\AspNetCore_RazorPagesSamples\obj\Debug\netcoreapp3.1\AspNetCore_RazorPagesSamples.genruntimeconfig.cache
 C:\Aktueller Kurs\2020_10_26_AspNetCore\AspNetCore_Kurs\AspNetCore_RazorPagesSamples\obj\Debug\netcoreapp3.1\AspNetCore_RazorPagesSamples.csproj.CopyComplete
 C:\Aktueller Kurs\2020_10_26_AspNetCore\AspNetCore_Kurs\AspNetCore_RazorPagesSamples\obj\Debug\netcoreapp3.1\Razor\Pages\001_Einstieg\002_FunctionsBlocks.cshtml.g.cs
+C:\Aktueller Kurs\2020_10_26_AspNetCore\AspNetCore_Kurs\AspNetCore_RazorPagesSamples\obj\Debug\netcoreapp3.1\Razor\Pages\001_Einstieg\003_PageModel.cshtml.g.cs
+C:\Aktueller Kurs\2020_10_26_AspNetCore\AspNetCore_Kurs\AspNetCore_RazorPagesSamples\obj\Debug\netcoreapp3.1\Razor\Pages\002_RazorSyntax\RazorSyntax1.cshtml.g.cs
+C:\Aktueller Kurs\2020_10_26_AspNetCore\AspNetCore_Kurs\AspNetCore_RazorPagesSamples\obj\Debug\netcoreapp3.1\Razor\Pages\002_RazorSyntax\RazorSyntax2.cshtml.g.cs
+C:\Aktueller Kurs\2020_10_26_AspNetCore\AspNetCore_Kurs\AspNetCore_RazorPagesSamples\obj\Debug\netcoreapp3.1\Razor\Pages\003_PageModel\001_HandlerMethodsInRazorPages.cshtml.g.cs
+C:\Aktueller Kurs\2020_10_26_AspNetCore\AspNetCore_Kurs\AspNetCore_RazorPagesSamples\obj\Debug\netcoreapp3.1\Razor\Pages\003_PageModel\002_NamedHandlerMethods.cshtml.g.cs
+C:\Aktueller Kurs\2020_10_26_AspNetCore\AspNetCore_Kurs\AspNetCore_RazorPagesSamples\obj\Debug\netcoreapp3.1\Razor\Pages\003_PageModel\003_CallWithHandlerTheCurrentGetMethod.cshtml.g.cs

@@ -1,0 +1,15 @@
+﻿@page "/calc/{handler?}"
+@model AspNetCore_RazorPagesSamples.Pages._003_PageModel._003_CallWithHandlerTheCurrentGetMethodModel
+@{
+}
+
+
+<h1>Calc1</h1>
+
+<form method="post">
+    <input name="eins" /> <br />
+    <input name="zwei" /> <br />
+    <button type="submit">Add</button>
+
+    @Model.Ergebnis
+</form>

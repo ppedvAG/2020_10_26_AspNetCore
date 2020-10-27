@@ -1,0 +1,36 @@
+﻿@model MVCSamples.ViewModel.EarthLifeVM
+@{
+    ViewData["Title"] = "StronglyTypedPartials2";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>StronglyTypedPartials2</h1>
+
+
+
+@if (Model.TheEarth.StufeDerErdverschmutzung > 50)
+{
+    <p>Achtung die Erde ist verschmutzt</p>
+}
+
+<h3>Tiere</h3>
+
+<p>Gebe den Umfang der Erdschutzung aus: @Model.TheEarth.StufeDerErdverschmutzung </p>
+
+<p>Kevin.Winter@@gmail.com</p>
+
+@foreach (Animal animal in Model.AlleTiere)
+{
+    <p>@animal.Name</p>
+}
+
+
+
+<partial name="_AnimalPartialView2" model="Model.TheEarth" />
+
+<h3>Menschen</h3>
+@foreach (Humans human in Model.AllHumans)
+{
+    <p>@human.Name</p>
+    <p>@human.Birthday</p>
+}

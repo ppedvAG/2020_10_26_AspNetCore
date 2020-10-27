@@ -1,0 +1,23 @@
+﻿@model IEnumerable<string>
+@{
+    ViewData["Title"] = "ShowFormattedGallery";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>ShowFormattedGallery</h1>
+
+@Model.
+
+
+<div class="row">
+    @foreach (string picturePath in Model)
+    {
+        <div class="col-12 col-md-4">
+            <a href="~/images/@System.IO.Path.GetFileName(picturePath)">
+                <img class="img-fluid" src="/imagegen?img=/@System.IO.Path.GetFileName(picturePath)" />
+            </a>
+        </div>
+
+    }
+</div>
+

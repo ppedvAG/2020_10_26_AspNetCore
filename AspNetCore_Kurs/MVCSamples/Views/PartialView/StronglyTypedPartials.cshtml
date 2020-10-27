@@ -1,0 +1,12 @@
+﻿@model IEnumerable<MVCSamples.Models.Animal>
+@{
+    ViewData["Title"] = "StronglyTypedPartials";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>StronglyTypedPartials</h1>
+
+
+
+<partial name="_AnimalPartialView" model="Model" />
+

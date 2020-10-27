@@ -1,0 +1,24 @@
+﻿@model IEnumerable<string>
+@{
+    ViewData["Title"] = "ShowBasicGallery";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>ShowBasicGallery</h1>
+
+@{ //C# Codeblock = Model ohne @
+    Model.ToList();
+}
+
+
+
+@Model.ToList()
+
+<div class="row">
+    @foreach (var item in Model)
+    {
+        <div class="col-12 col-md-4">
+            <img class="img-fluid" src="~/images/@System.IO.Path.GetFileName(item)" />
+        </div>
+    }
+</div>
