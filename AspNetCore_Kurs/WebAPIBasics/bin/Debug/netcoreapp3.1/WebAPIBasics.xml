@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>WebAPIBasics</name>
+    </assembly>
+    <members>
+        <member name="M:WebAPIBasics.Startup.#ctor(Microsoft.Extensions.Configuration.IConfiguration)">
+            <summary>
+            Ist die Startup -
+            </summary>
+            <param name="configuration">Da kickste...sogar für Parameter kann ich meinen Senf dazu geben. </param>
+        </member>
+        <member name="M:WebAPIBasics.Startup.ConfigureServices(Microsoft.Extensions.DependencyInjection.IServiceCollection)">
+            <summary>
+            ConfigureServices: Hier kann ich auch was schreiben
+            </summary>
+            <param name="services"></param>
+        </member>
+        <member name="M:WebAPIBasics.Startup.Configure(Microsoft.AspNetCore.Builder.IApplicationBuilder,Microsoft.AspNetCore.Hosting.IWebHostEnvironment)">
+            <summary>
+            
+            </summary>
+            <param name="app"></param>
+            <param name="env"></param>
+        </member>
+    </members>
+</doc>

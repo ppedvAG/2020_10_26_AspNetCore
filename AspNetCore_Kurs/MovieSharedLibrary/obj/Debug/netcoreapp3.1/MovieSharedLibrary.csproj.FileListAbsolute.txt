@@ -1,0 +1,9 @@
+C:\Aktueller Kurs\2020_10_26_AspNetCore\AspNetCore_Kurs\MovieSharedLibrary\bin\Debug\netcoreapp3.1\MovieSharedLibrary.deps.json
+C:\Aktueller Kurs\2020_10_26_AspNetCore\AspNetCore_Kurs\MovieSharedLibrary\bin\Debug\netcoreapp3.1\MovieSharedLibrary.dll
+C:\Aktueller Kurs\2020_10_26_AspNetCore\AspNetCore_Kurs\MovieSharedLibrary\bin\Debug\netcoreapp3.1\MovieSharedLibrary.pdb
+C:\Aktueller Kurs\2020_10_26_AspNetCore\AspNetCore_Kurs\MovieSharedLibrary\obj\Debug\netcoreapp3.1\MovieSharedLibrary.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\2020_10_26_AspNetCore\AspNetCore_Kurs\MovieSharedLibrary\obj\Debug\netcoreapp3.1\MovieSharedLibrary.AssemblyInfo.cs
+C:\Aktueller Kurs\2020_10_26_AspNetCore\AspNetCore_Kurs\MovieSharedLibrary\obj\Debug\netcoreapp3.1\MovieSharedLibrary.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\2020_10_26_AspNetCore\AspNetCore_Kurs\MovieSharedLibrary\obj\Debug\netcoreapp3.1\MovieSharedLibrary.dll
+C:\Aktueller Kurs\2020_10_26_AspNetCore\AspNetCore_Kurs\MovieSharedLibrary\obj\Debug\netcoreapp3.1\MovieSharedLibrary.pdb
+C:\Aktueller Kurs\2020_10_26_AspNetCore\AspNetCore_Kurs\MovieSharedLibrary\obj\Debug\netcoreapp3.1\MovieSharedLibrary.csprojAssemblyReference.cache

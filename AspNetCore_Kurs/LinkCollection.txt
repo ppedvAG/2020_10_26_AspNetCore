@@ -1,0 +1,6 @@
+https://code-maze.com/hateoas-aspnet-core-web-api/
+
+https://code-maze.com/data-shaping-aspnet-core-webapi/
+
+https://code-maze.com/paging-aspnet-core-webapi/
+

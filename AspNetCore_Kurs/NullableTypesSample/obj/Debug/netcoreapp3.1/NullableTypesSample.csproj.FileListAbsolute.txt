@@ -1,0 +1,12 @@
+C:\Aktueller Kurs\2020_10_26_AspNetCore\AspNetCore_Kurs\NullableTypesSample\bin\Debug\netcoreapp3.1\NullableTypesSample.exe
+C:\Aktueller Kurs\2020_10_26_AspNetCore\AspNetCore_Kurs\NullableTypesSample\bin\Debug\netcoreapp3.1\NullableTypesSample.deps.json
+C:\Aktueller Kurs\2020_10_26_AspNetCore\AspNetCore_Kurs\NullableTypesSample\bin\Debug\netcoreapp3.1\NullableTypesSample.runtimeconfig.json
+C:\Aktueller Kurs\2020_10_26_AspNetCore\AspNetCore_Kurs\NullableTypesSample\bin\Debug\netcoreapp3.1\NullableTypesSample.runtimeconfig.dev.json
+C:\Aktueller Kurs\2020_10_26_AspNetCore\AspNetCore_Kurs\NullableTypesSample\bin\Debug\netcoreapp3.1\NullableTypesSample.dll
+C:\Aktueller Kurs\2020_10_26_AspNetCore\AspNetCore_Kurs\NullableTypesSample\bin\Debug\netcoreapp3.1\NullableTypesSample.pdb
+C:\Aktueller Kurs\2020_10_26_AspNetCore\AspNetCore_Kurs\NullableTypesSample\obj\Debug\netcoreapp3.1\NullableTypesSample.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\2020_10_26_AspNetCore\AspNetCore_Kurs\NullableTypesSample\obj\Debug\netcoreapp3.1\NullableTypesSample.AssemblyInfo.cs
+C:\Aktueller Kurs\2020_10_26_AspNetCore\AspNetCore_Kurs\NullableTypesSample\obj\Debug\netcoreapp3.1\NullableTypesSample.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\2020_10_26_AspNetCore\AspNetCore_Kurs\NullableTypesSample\obj\Debug\netcoreapp3.1\NullableTypesSample.dll
+C:\Aktueller Kurs\2020_10_26_AspNetCore\AspNetCore_Kurs\NullableTypesSample\obj\Debug\netcoreapp3.1\NullableTypesSample.pdb
+C:\Aktueller Kurs\2020_10_26_AspNetCore\AspNetCore_Kurs\NullableTypesSample\obj\Debug\netcoreapp3.1\NullableTypesSample.genruntimeconfig.cache
