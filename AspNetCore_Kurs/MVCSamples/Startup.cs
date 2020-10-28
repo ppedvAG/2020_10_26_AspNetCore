@@ -36,6 +36,8 @@ namespace MVCSamples
                     options.UseSqlServer(Configuration.GetConnectionString("MovieDBContext")));
 
             services.AddHealthChecks();
+
+            services.AddSession();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -61,6 +63,7 @@ namespace MVCSamples
             app.UseRouting();
 
 
+            app.UseSession();
             //app.UseMvc(routes =>
             //{
             //    routes.MapRoute("Products", "Products/{action=Index}/{id?}", new { controller = "Products" });

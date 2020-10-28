@@ -66,11 +66,14 @@ namespace MVCSamples.Controllers
                 movie.Id = Guid.NewGuid();
                 _context.Add(movie);
                 await _context.SaveChangesAsync();
+
+                //RedirectToAction(nameof(Index), nameof(HomeController));
                 return RedirectToAction(nameof(Index));
             }
             return View(movie);
         }
 
+        
         // GET: Movie/Edit/5
         public async Task<IActionResult> Edit(Guid? id)
         {
@@ -86,6 +89,7 @@ namespace MVCSamples.Controllers
             }
             return View(movie);
         }
+
 
         // POST: Movie/Edit/5
         // To protect from overposting attacks, enable the specific properties you want to bind to, for 
@@ -122,6 +126,7 @@ namespace MVCSamples.Controllers
             return View(movie);
         }
 
+        
         // GET: Movie/Delete/5
         public async Task<IActionResult> Delete(Guid? id)
         {

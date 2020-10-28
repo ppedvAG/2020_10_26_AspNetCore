@@ -188,3 +188,10 @@ C:\Aktueller Kurs\2020_10_26_AspNetCore\AspNetCore_Kurs\MVCSamples\obj\Debug\net
 C:\Aktueller Kurs\2020_10_26_AspNetCore\AspNetCore_Kurs\MVCSamples\obj\Debug\netcoreapp3.1\Razor\Views\Gallery\ShowFormattedGallery.cshtml.g.cs
 C:\Aktueller Kurs\2020_10_26_AspNetCore\AspNetCore_Kurs\MVCSamples\obj\Debug\netcoreapp3.1\MVCSamples.csproj.CoreCompileInputs.cache
 C:\Aktueller Kurs\2020_10_26_AspNetCore\AspNetCore_Kurs\MVCSamples\obj\Debug\netcoreapp3.1\MVCSamples.MvcApplicationPartsAssemblyInfo.cache
+C:\Aktueller Kurs\2020_10_26_AspNetCore\AspNetCore_Kurs\MVCSamples\obj\Debug\netcoreapp3.1\Razor\Views\StateManagement\ViewDataSample.cshtml.g.cs
+C:\Aktueller Kurs\2020_10_26_AspNetCore\AspNetCore_Kurs\MVCSamples\obj\Debug\netcoreapp3.1\Razor\Views\StateManagement\ViewBagSample.cshtml.g.cs
+C:\Aktueller Kurs\2020_10_26_AspNetCore\AspNetCore_Kurs\MVCSamples\obj\Debug\netcoreapp3.1\Razor\Views\StateManagement\TempDataFirst.cshtml.g.cs
+C:\Aktueller Kurs\2020_10_26_AspNetCore\AspNetCore_Kurs\MVCSamples\obj\Debug\netcoreapp3.1\Razor\Views\StateManagement\TempDataSecond.cshtml.g.cs
+C:\Aktueller Kurs\2020_10_26_AspNetCore\AspNetCore_Kurs\MVCSamples\obj\Debug\netcoreapp3.1\Razor\Views\StateManagement\TempDataThird.cshtml.g.cs
+C:\Aktueller Kurs\2020_10_26_AspNetCore\AspNetCore_Kurs\MVCSamples\obj\Debug\netcoreapp3.1\Razor\Views\StateManagement\TempDataFour.cshtml.g.cs
+C:\Aktueller Kurs\2020_10_26_AspNetCore\AspNetCore_Kurs\MVCSamples\obj\Debug\netcoreapp3.1\Razor\Views\StateManagement\SessionInit.cshtml.g.cs
