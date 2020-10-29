@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Aktueller Kurs\\2020_10_26_AspNetCore\\AspNetCore_Kurs\\AspNetCore_DependencyInjectionSample\\AspNetCore_DependencyInjectionSample.csproj": {}
+    "C:\\GitHub_Projects\\2020_10_26_AspNetCore\\AspNetCore_Kurs\\AspNetCore_DependencyInjectionSample\\AspNetCore_DependencyInjectionSample.csproj": {}
   },
   "projects": {
-    "C:\\Aktueller Kurs\\2020_10_26_AspNetCore\\AspNetCore_Kurs\\AspNetCore_DependencyInjectionSample\\AspNetCore_DependencyInjectionSample.csproj": {
+    "C:\\GitHub_Projects\\2020_10_26_AspNetCore\\AspNetCore_Kurs\\AspNetCore_DependencyInjectionSample\\AspNetCore_DependencyInjectionSample.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Aktueller Kurs\\2020_10_26_AspNetCore\\AspNetCore_Kurs\\AspNetCore_DependencyInjectionSample\\AspNetCore_DependencyInjectionSample.csproj",
+        "projectUniqueName": "C:\\GitHub_Projects\\2020_10_26_AspNetCore\\AspNetCore_Kurs\\AspNetCore_DependencyInjectionSample\\AspNetCore_DependencyInjectionSample.csproj",
         "projectName": "AspNetCore_DependencyInjectionSample",
-        "projectPath": "C:\\Aktueller Kurs\\2020_10_26_AspNetCore\\AspNetCore_Kurs\\AspNetCore_DependencyInjectionSample\\AspNetCore_DependencyInjectionSample.csproj",
+        "projectPath": "C:\\GitHub_Projects\\2020_10_26_AspNetCore\\AspNetCore_Kurs\\AspNetCore_DependencyInjectionSample\\AspNetCore_DependencyInjectionSample.csproj",
         "packagesPath": "C:\\Users\\KW4\\.nuget\\packages\\",
-        "outputPath": "C:\\Aktueller Kurs\\2020_10_26_AspNetCore\\AspNetCore_Kurs\\AspNetCore_DependencyInjectionSample\\obj\\",
+        "outputPath": "C:\\GitHub_Projects\\2020_10_26_AspNetCore\\AspNetCore_Kurs\\AspNetCore_DependencyInjectionSample\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -32,8 +32,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Aktueller Kurs\\2020_10_26_AspNetCore\\AspNetCore_Kurs\\DependencyInjectionSample\\DependencyInjectionSample_Library.csproj": {
-                "projectPath": "C:\\Aktueller Kurs\\2020_10_26_AspNetCore\\AspNetCore_Kurs\\DependencyInjectionSample\\DependencyInjectionSample_Library.csproj"
+              "C:\\GitHub_Projects\\2020_10_26_AspNetCore\\AspNetCore_Kurs\\DependencyInjectionSample\\DependencyInjectionSample_Library.csproj": {
+                "projectPath": "C:\\GitHub_Projects\\2020_10_26_AspNetCore\\AspNetCore_Kurs\\DependencyInjectionSample\\DependencyInjectionSample_Library.csproj"
               }
             }
           }
@@ -68,14 +68,14 @@
         }
       }
     },
-    "C:\\Aktueller Kurs\\2020_10_26_AspNetCore\\AspNetCore_Kurs\\DependencyInjectionSample\\DependencyInjectionSample_Library.csproj": {
+    "C:\\GitHub_Projects\\2020_10_26_AspNetCore\\AspNetCore_Kurs\\DependencyInjectionSample\\DependencyInjectionSample_Library.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Aktueller Kurs\\2020_10_26_AspNetCore\\AspNetCore_Kurs\\DependencyInjectionSample\\DependencyInjectionSample_Library.csproj",
+        "projectUniqueName": "C:\\GitHub_Projects\\2020_10_26_AspNetCore\\AspNetCore_Kurs\\DependencyInjectionSample\\DependencyInjectionSample_Library.csproj",
         "projectName": "DependencyInjectionSample_Library",
-        "projectPath": "C:\\Aktueller Kurs\\2020_10_26_AspNetCore\\AspNetCore_Kurs\\DependencyInjectionSample\\DependencyInjectionSample_Library.csproj",
+        "projectPath": "C:\\GitHub_Projects\\2020_10_26_AspNetCore\\AspNetCore_Kurs\\DependencyInjectionSample\\DependencyInjectionSample_Library.csproj",
         "packagesPath": "C:\\Users\\KW4\\.nuget\\packages\\",
-        "outputPath": "C:\\Aktueller Kurs\\2020_10_26_AspNetCore\\AspNetCore_Kurs\\DependencyInjectionSample\\obj\\",
+        "outputPath": "C:\\GitHub_Projects\\2020_10_26_AspNetCore\\AspNetCore_Kurs\\DependencyInjectionSample\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",

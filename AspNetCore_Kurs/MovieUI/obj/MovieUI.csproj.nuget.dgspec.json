@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Aktueller Kurs\\2020_10_26_AspNetCore\\AspNetCore_Kurs\\MovieUI\\MovieUI.csproj": {}
+    "C:\\GitHub_Projects\\2020_10_26_AspNetCore\\AspNetCore_Kurs\\MovieUI\\MovieUI.csproj": {}
   },
   "projects": {
-    "C:\\Aktueller Kurs\\2020_10_26_AspNetCore\\AspNetCore_Kurs\\MovieSharedLibrary\\MovieSharedLibrary.csproj": {
+    "C:\\GitHub_Projects\\2020_10_26_AspNetCore\\AspNetCore_Kurs\\MovieSharedLibrary\\MovieSharedLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Aktueller Kurs\\2020_10_26_AspNetCore\\AspNetCore_Kurs\\MovieSharedLibrary\\MovieSharedLibrary.csproj",
+        "projectUniqueName": "C:\\GitHub_Projects\\2020_10_26_AspNetCore\\AspNetCore_Kurs\\MovieSharedLibrary\\MovieSharedLibrary.csproj",
         "projectName": "MovieSharedLibrary",
-        "projectPath": "C:\\Aktueller Kurs\\2020_10_26_AspNetCore\\AspNetCore_Kurs\\MovieSharedLibrary\\MovieSharedLibrary.csproj",
+        "projectPath": "C:\\GitHub_Projects\\2020_10_26_AspNetCore\\AspNetCore_Kurs\\MovieSharedLibrary\\MovieSharedLibrary.csproj",
         "packagesPath": "C:\\Users\\KW4\\.nuget\\packages\\",
-        "outputPath": "C:\\Aktueller Kurs\\2020_10_26_AspNetCore\\AspNetCore_Kurs\\MovieSharedLibrary\\obj\\",
+        "outputPath": "C:\\GitHub_Projects\\2020_10_26_AspNetCore\\AspNetCore_Kurs\\MovieSharedLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -61,14 +61,14 @@
         }
       }
     },
-    "C:\\Aktueller Kurs\\2020_10_26_AspNetCore\\AspNetCore_Kurs\\MovieUI\\MovieUI.csproj": {
+    "C:\\GitHub_Projects\\2020_10_26_AspNetCore\\AspNetCore_Kurs\\MovieUI\\MovieUI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Aktueller Kurs\\2020_10_26_AspNetCore\\AspNetCore_Kurs\\MovieUI\\MovieUI.csproj",
+        "projectUniqueName": "C:\\GitHub_Projects\\2020_10_26_AspNetCore\\AspNetCore_Kurs\\MovieUI\\MovieUI.csproj",
         "projectName": "MovieUI",
-        "projectPath": "C:\\Aktueller Kurs\\2020_10_26_AspNetCore\\AspNetCore_Kurs\\MovieUI\\MovieUI.csproj",
+        "projectPath": "C:\\GitHub_Projects\\2020_10_26_AspNetCore\\AspNetCore_Kurs\\MovieUI\\MovieUI.csproj",
         "packagesPath": "C:\\Users\\KW4\\.nuget\\packages\\",
-        "outputPath": "C:\\Aktueller Kurs\\2020_10_26_AspNetCore\\AspNetCore_Kurs\\MovieUI\\obj\\",
+        "outputPath": "C:\\GitHub_Projects\\2020_10_26_AspNetCore\\AspNetCore_Kurs\\MovieUI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -89,8 +89,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Aktueller Kurs\\2020_10_26_AspNetCore\\AspNetCore_Kurs\\MovieSharedLibrary\\MovieSharedLibrary.csproj": {
-                "projectPath": "C:\\Aktueller Kurs\\2020_10_26_AspNetCore\\AspNetCore_Kurs\\MovieSharedLibrary\\MovieSharedLibrary.csproj"
+              "C:\\GitHub_Projects\\2020_10_26_AspNetCore\\AspNetCore_Kurs\\MovieSharedLibrary\\MovieSharedLibrary.csproj": {
+                "projectPath": "C:\\GitHub_Projects\\2020_10_26_AspNetCore\\AspNetCore_Kurs\\MovieSharedLibrary\\MovieSharedLibrary.csproj"
               }
             }
           }

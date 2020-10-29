@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZtPLYkWSN+FImSyF80wTQoE9k4Aloej1eQEnLm8dImi0h11u7vSf6aZ9DNRabT8p5TIFPSv9JYwdwv/YeCGBUA==",
+  "dgSpecHash": "2/I2gwJWJJUr/yJaJIC8bETmoe4UDUkd5cNM5ckyh/SSoeZsS28ZgzgLspBbI7A8Cc7fGRG84Y/nZhhIY6/1XQ==",
   "success": true,
-  "projectFilePath": "C:\\Aktueller Kurs\\2020_10_26_AspNetCore\\AspNetCore_Kurs\\WebAPIBasics\\WebAPIBasics.csproj",
+  "projectFilePath": "C:\\GitHub_Projects\\2020_10_26_AspNetCore\\AspNetCore_Kurs\\WebAPIBasics\\WebAPIBasics.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\KW4\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\KW4\\.nuget\\packages\\microsoft.aspnetcore.razor\\2.2.0\\microsoft.aspnetcore.razor.2.2.0.nupkg.sha512",

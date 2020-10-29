@@ -3642,11 +3642,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Aktueller Kurs\\2020_10_26_AspNetCore\\AspNetCore_Kurs\\AspNetCore_ConfigurationSample\\AspNetCore_ConfigurationSample.csproj",
+      "projectUniqueName": "C:\\GitHub_Projects\\2020_10_26_AspNetCore\\AspNetCore_Kurs\\AspNetCore_ConfigurationSample\\AspNetCore_ConfigurationSample.csproj",
       "projectName": "AspNetCore_ConfigurationSample",
-      "projectPath": "C:\\Aktueller Kurs\\2020_10_26_AspNetCore\\AspNetCore_Kurs\\AspNetCore_ConfigurationSample\\AspNetCore_ConfigurationSample.csproj",
+      "projectPath": "C:\\GitHub_Projects\\2020_10_26_AspNetCore\\AspNetCore_Kurs\\AspNetCore_ConfigurationSample\\AspNetCore_ConfigurationSample.csproj",
       "packagesPath": "C:\\Users\\KW4\\.nuget\\packages\\",
-      "outputPath": "C:\\Aktueller Kurs\\2020_10_26_AspNetCore\\AspNetCore_Kurs\\AspNetCore_ConfigurationSample\\obj\\",
+      "outputPath": "C:\\GitHub_Projects\\2020_10_26_AspNetCore\\AspNetCore_Kurs\\AspNetCore_ConfigurationSample\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",

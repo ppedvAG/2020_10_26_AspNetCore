@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5A3Cn9zjPAr6qDztKLuV2vRYjhgLqTS7IUoR9epL5VKxic5sYCqwtPXNZiWcpMiSSelcJyqBr72EUtF0jh8zzA==",
+  "dgSpecHash": "NY19kqIb8e2ehVu2Y0PjKB3xtTHMyyN27Fr5KQaHVglISQgmJL3dbcALUgu24dr8O0NroIbx3Je9Vw/y0XhLzw==",
   "success": true,
-  "projectFilePath": "C:\\Aktueller Kurs\\2020_10_26_AspNetCore\\AspNetCore_Kurs\\AspNetCore_WebAPI\\AspNetCore_WebAPI.csproj",
+  "projectFilePath": "C:\\GitHub_Projects\\2020_10_26_AspNetCore\\AspNetCore_Kurs\\AspNetCore_WebAPI\\AspNetCore_WebAPI.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

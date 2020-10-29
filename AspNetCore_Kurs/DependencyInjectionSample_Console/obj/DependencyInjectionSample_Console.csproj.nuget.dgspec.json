@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Aktueller Kurs\\2020_10_26_AspNetCore\\AspNetCore_Kurs\\DependencyInjectionSample_Console\\DependencyInjectionSample_Console.csproj": {}
+    "C:\\GitHub_Projects\\2020_10_26_AspNetCore\\AspNetCore_Kurs\\DependencyInjectionSample_Console\\DependencyInjectionSample_Console.csproj": {}
   },
   "projects": {
-    "C:\\Aktueller Kurs\\2020_10_26_AspNetCore\\AspNetCore_Kurs\\DependencyInjectionSample\\DependencyInjectionSample_Library.csproj": {
+    "C:\\GitHub_Projects\\2020_10_26_AspNetCore\\AspNetCore_Kurs\\DependencyInjectionSample\\DependencyInjectionSample_Library.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Aktueller Kurs\\2020_10_26_AspNetCore\\AspNetCore_Kurs\\DependencyInjectionSample\\DependencyInjectionSample_Library.csproj",
+        "projectUniqueName": "C:\\GitHub_Projects\\2020_10_26_AspNetCore\\AspNetCore_Kurs\\DependencyInjectionSample\\DependencyInjectionSample_Library.csproj",
         "projectName": "DependencyInjectionSample_Library",
-        "projectPath": "C:\\Aktueller Kurs\\2020_10_26_AspNetCore\\AspNetCore_Kurs\\DependencyInjectionSample\\DependencyInjectionSample_Library.csproj",
+        "projectPath": "C:\\GitHub_Projects\\2020_10_26_AspNetCore\\AspNetCore_Kurs\\DependencyInjectionSample\\DependencyInjectionSample_Library.csproj",
         "packagesPath": "C:\\Users\\KW4\\.nuget\\packages\\",
-        "outputPath": "C:\\Aktueller Kurs\\2020_10_26_AspNetCore\\AspNetCore_Kurs\\DependencyInjectionSample\\obj\\",
+        "outputPath": "C:\\GitHub_Projects\\2020_10_26_AspNetCore\\AspNetCore_Kurs\\DependencyInjectionSample\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -61,14 +61,14 @@
         }
       }
     },
-    "C:\\Aktueller Kurs\\2020_10_26_AspNetCore\\AspNetCore_Kurs\\DependencyInjectionSample_Console\\DependencyInjectionSample_Console.csproj": {
+    "C:\\GitHub_Projects\\2020_10_26_AspNetCore\\AspNetCore_Kurs\\DependencyInjectionSample_Console\\DependencyInjectionSample_Console.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Aktueller Kurs\\2020_10_26_AspNetCore\\AspNetCore_Kurs\\DependencyInjectionSample_Console\\DependencyInjectionSample_Console.csproj",
+        "projectUniqueName": "C:\\GitHub_Projects\\2020_10_26_AspNetCore\\AspNetCore_Kurs\\DependencyInjectionSample_Console\\DependencyInjectionSample_Console.csproj",
         "projectName": "DependencyInjectionSample_Console",
-        "projectPath": "C:\\Aktueller Kurs\\2020_10_26_AspNetCore\\AspNetCore_Kurs\\DependencyInjectionSample_Console\\DependencyInjectionSample_Console.csproj",
+        "projectPath": "C:\\GitHub_Projects\\2020_10_26_AspNetCore\\AspNetCore_Kurs\\DependencyInjectionSample_Console\\DependencyInjectionSample_Console.csproj",
         "packagesPath": "C:\\Users\\KW4\\.nuget\\packages\\",
-        "outputPath": "C:\\Aktueller Kurs\\2020_10_26_AspNetCore\\AspNetCore_Kurs\\DependencyInjectionSample_Console\\obj\\",
+        "outputPath": "C:\\GitHub_Projects\\2020_10_26_AspNetCore\\AspNetCore_Kurs\\DependencyInjectionSample_Console\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -89,8 +89,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Aktueller Kurs\\2020_10_26_AspNetCore\\AspNetCore_Kurs\\DependencyInjectionSample\\DependencyInjectionSample_Library.csproj": {
-                "projectPath": "C:\\Aktueller Kurs\\2020_10_26_AspNetCore\\AspNetCore_Kurs\\DependencyInjectionSample\\DependencyInjectionSample_Library.csproj"
+              "C:\\GitHub_Projects\\2020_10_26_AspNetCore\\AspNetCore_Kurs\\DependencyInjectionSample\\DependencyInjectionSample_Library.csproj": {
+                "projectPath": "C:\\GitHub_Projects\\2020_10_26_AspNetCore\\AspNetCore_Kurs\\DependencyInjectionSample\\DependencyInjectionSample_Library.csproj"
               }
             }
           }

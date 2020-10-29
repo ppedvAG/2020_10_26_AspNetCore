@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Xizo39ldTBWcsxww8RZpjMzxumC8hfJpLqaAZVfiv/WiNwmMuhMM1+VRTBSE5zBwFlazyV9tc+/ft02MaF2izw==",
+  "dgSpecHash": "DfMopJ2n84EbaWHO2L5+JFF/zMlqspvRDg+dhgOUmdLGJ4sNSKGEhsHRtZWWj5YjpA06Ra2YvK6kgkeShI5Ikg==",
   "success": true,
-  "projectFilePath": "C:\\Aktueller Kurs\\2020_10_26_AspNetCore\\AspNetCore_Kurs\\AspNetCore_RazorPagesSamples\\AspNetCore_RazorPagesSamples.csproj",
+  "projectFilePath": "C:\\GitHub_Projects\\2020_10_26_AspNetCore\\AspNetCore_Kurs\\AspNetCore_RazorPagesSamples\\AspNetCore_RazorPagesSamples.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

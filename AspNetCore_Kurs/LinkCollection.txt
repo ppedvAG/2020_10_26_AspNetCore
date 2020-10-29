@@ -4,3 +4,11 @@ https://code-maze.com/data-shaping-aspnet-core-webapi/
 
 https://code-maze.com/paging-aspnet-core-webapi/
 
+Weiteres Thema nachdem man DataShaping in der Therorie verstanden hat:
+https://code-maze.com/graphql-aspnetcore-basics/
+
+ConnectionString-Frage:
+https://docs.microsoft.com/en-us/uwp/api/windows.security.credentials.passwordvault?view=winrt-19041
+
+
+

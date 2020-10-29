@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Aktueller Kurs\\2020_10_26_AspNetCore\\AspNetCore_Kurs\\NullableTypesSample\\NullableTypesSample.csproj",
+      "projectUniqueName": "C:\\GitHub_Projects\\2020_10_26_AspNetCore\\AspNetCore_Kurs\\NullableTypesSample\\NullableTypesSample.csproj",
       "projectName": "NullableTypesSample",
-      "projectPath": "C:\\Aktueller Kurs\\2020_10_26_AspNetCore\\AspNetCore_Kurs\\NullableTypesSample\\NullableTypesSample.csproj",
+      "projectPath": "C:\\GitHub_Projects\\2020_10_26_AspNetCore\\AspNetCore_Kurs\\NullableTypesSample\\NullableTypesSample.csproj",
       "packagesPath": "C:\\Users\\KW4\\.nuget\\packages\\",
-      "outputPath": "C:\\Aktueller Kurs\\2020_10_26_AspNetCore\\AspNetCore_Kurs\\NullableTypesSample\\obj\\",
+      "outputPath": "C:\\GitHub_Projects\\2020_10_26_AspNetCore\\AspNetCore_Kurs\\NullableTypesSample\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",

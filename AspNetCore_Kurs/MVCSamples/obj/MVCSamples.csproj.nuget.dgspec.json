@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Aktueller Kurs\\2020_10_26_AspNetCore\\AspNetCore_Kurs\\MVCSamples\\MVCSamples.csproj": {}
+    "C:\\GitHub_Projects\\2020_10_26_AspNetCore\\AspNetCore_Kurs\\MVCSamples\\MVCSamples.csproj": {}
   },
   "projects": {
-    "C:\\Aktueller Kurs\\2020_10_26_AspNetCore\\AspNetCore_Kurs\\MVCSamples\\MVCSamples.csproj": {
+    "C:\\GitHub_Projects\\2020_10_26_AspNetCore\\AspNetCore_Kurs\\MVCSamples\\MVCSamples.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Aktueller Kurs\\2020_10_26_AspNetCore\\AspNetCore_Kurs\\MVCSamples\\MVCSamples.csproj",
+        "projectUniqueName": "C:\\GitHub_Projects\\2020_10_26_AspNetCore\\AspNetCore_Kurs\\MVCSamples\\MVCSamples.csproj",
         "projectName": "MVCSamples",
-        "projectPath": "C:\\Aktueller Kurs\\2020_10_26_AspNetCore\\AspNetCore_Kurs\\MVCSamples\\MVCSamples.csproj",
+        "projectPath": "C:\\GitHub_Projects\\2020_10_26_AspNetCore\\AspNetCore_Kurs\\MVCSamples\\MVCSamples.csproj",
         "packagesPath": "C:\\Users\\KW4\\.nuget\\packages\\",
-        "outputPath": "C:\\Aktueller Kurs\\2020_10_26_AspNetCore\\AspNetCore_Kurs\\MVCSamples\\obj\\",
+        "outputPath": "C:\\GitHub_Projects\\2020_10_26_AspNetCore\\AspNetCore_Kurs\\MVCSamples\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",

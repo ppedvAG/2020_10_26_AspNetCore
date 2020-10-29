@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "oTzSVtXugdVdDPlQdhbqran97V8kyTB9ArZQ1QvvoO6oDWRGIScmhwPd0ib8K7ArBLRPEUdT5roxNLwTrnqtTQ==",
+  "dgSpecHash": "dI2cQGoXvFzVBi6GeZTFRDKjCHTSzHnyUH3GlNS2BMcmmuCRdmJe5SQWjVlD0KK6db+GlsTXaRI8vi6z2mMFaQ==",
   "success": true,
-  "projectFilePath": "C:\\Aktueller Kurs\\2020_10_26_AspNetCore\\AspNetCore_Kurs\\MovieUI\\MovieUI.csproj",
+  "projectFilePath": "C:\\GitHub_Projects\\2020_10_26_AspNetCore\\AspNetCore_Kurs\\MovieUI\\MovieUI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\KW4\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\KW4\\.nuget\\packages\\microsoft.aspnetcore.razor\\2.2.0\\microsoft.aspnetcore.razor.2.2.0.nupkg.sha512",

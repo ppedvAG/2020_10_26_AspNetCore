@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4x4Rmhn2XUWOKoUdKO9XXwZ4YFKjXKPy+Kk+5j/ANhtl7zH1VcLbrJ/xU45EvzHT7w7AAeyCdCh9A9VSXFtczA==",
+  "dgSpecHash": "W5OfkKFXn4hGmy7QwpELakt/TzfG27KAlZnZhWe2alMwNKO5Y3i7uFvDI87NNeVQuowNhz/45+ulMYWn2eY5gA==",
   "success": true,
-  "projectFilePath": "C:\\Aktueller Kurs\\2020_10_26_AspNetCore\\AspNetCore_Kurs\\AspNetCore_MVC_Overview\\AspNetCore_MVC_Overview.csproj",
+  "projectFilePath": "C:\\GitHub_Projects\\2020_10_26_AspNetCore\\AspNetCore_Kurs\\AspNetCore_MVC_Overview\\AspNetCore_MVC_Overview.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

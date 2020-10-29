@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Aktueller Kurs\\2020_10_26_AspNetCore\\AspNetCore_Kurs\\AspNetCore_MVC_Overview\\AspNetCore_MVC_Overview.csproj": {}
+    "C:\\GitHub_Projects\\2020_10_26_AspNetCore\\AspNetCore_Kurs\\AspNetCore_MVC_Overview\\AspNetCore_MVC_Overview.csproj": {}
   },
   "projects": {
-    "C:\\Aktueller Kurs\\2020_10_26_AspNetCore\\AspNetCore_Kurs\\AspNetCore_MVC_Overview\\AspNetCore_MVC_Overview.csproj": {
+    "C:\\GitHub_Projects\\2020_10_26_AspNetCore\\AspNetCore_Kurs\\AspNetCore_MVC_Overview\\AspNetCore_MVC_Overview.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Aktueller Kurs\\2020_10_26_AspNetCore\\AspNetCore_Kurs\\AspNetCore_MVC_Overview\\AspNetCore_MVC_Overview.csproj",
+        "projectUniqueName": "C:\\GitHub_Projects\\2020_10_26_AspNetCore\\AspNetCore_Kurs\\AspNetCore_MVC_Overview\\AspNetCore_MVC_Overview.csproj",
         "projectName": "AspNetCore_MVC_Overview",
-        "projectPath": "C:\\Aktueller Kurs\\2020_10_26_AspNetCore\\AspNetCore_Kurs\\AspNetCore_MVC_Overview\\AspNetCore_MVC_Overview.csproj",
+        "projectPath": "C:\\GitHub_Projects\\2020_10_26_AspNetCore\\AspNetCore_Kurs\\AspNetCore_MVC_Overview\\AspNetCore_MVC_Overview.csproj",
         "packagesPath": "C:\\Users\\KW4\\.nuget\\packages\\",
-        "outputPath": "C:\\Aktueller Kurs\\2020_10_26_AspNetCore\\AspNetCore_Kurs\\AspNetCore_MVC_Overview\\obj\\",
+        "outputPath": "C:\\GitHub_Projects\\2020_10_26_AspNetCore\\AspNetCore_Kurs\\AspNetCore_MVC_Overview\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",

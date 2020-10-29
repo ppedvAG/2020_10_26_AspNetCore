@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Aktueller Kurs\\2020_10_26_AspNetCore\\AspNetCore_Kurs\\PluginSample_PluginDLL\\PluginSample_PluginDLL.csproj",
+      "projectUniqueName": "C:\\GitHub_Projects\\2020_10_26_AspNetCore\\AspNetCore_Kurs\\PluginSample_PluginDLL\\PluginSample_PluginDLL.csproj",
       "projectName": "PluginSample_PluginDLL",
-      "projectPath": "C:\\Aktueller Kurs\\2020_10_26_AspNetCore\\AspNetCore_Kurs\\PluginSample_PluginDLL\\PluginSample_PluginDLL.csproj",
+      "projectPath": "C:\\GitHub_Projects\\2020_10_26_AspNetCore\\AspNetCore_Kurs\\PluginSample_PluginDLL\\PluginSample_PluginDLL.csproj",
       "packagesPath": "C:\\Users\\KW4\\.nuget\\packages\\",
-      "outputPath": "C:\\Aktueller Kurs\\2020_10_26_AspNetCore\\AspNetCore_Kurs\\PluginSample_PluginDLL\\obj\\",
+      "outputPath": "C:\\GitHub_Projects\\2020_10_26_AspNetCore\\AspNetCore_Kurs\\PluginSample_PluginDLL\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",

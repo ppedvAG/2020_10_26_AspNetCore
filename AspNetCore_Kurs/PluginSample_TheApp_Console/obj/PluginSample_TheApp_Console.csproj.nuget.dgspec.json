@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Aktueller Kurs\\2020_10_26_AspNetCore\\AspNetCore_Kurs\\PluginSample_TheApp_Console\\PluginSample_TheApp_Console.csproj": {}
+    "C:\\GitHub_Projects\\2020_10_26_AspNetCore\\AspNetCore_Kurs\\PluginSample_TheApp_Console\\PluginSample_TheApp_Console.csproj": {}
   },
   "projects": {
-    "C:\\Aktueller Kurs\\2020_10_26_AspNetCore\\AspNetCore_Kurs\\PluginSample_PluginDLL\\PluginSample_PluginDLL.csproj": {
+    "C:\\GitHub_Projects\\2020_10_26_AspNetCore\\AspNetCore_Kurs\\PluginSample_PluginDLL\\PluginSample_PluginDLL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Aktueller Kurs\\2020_10_26_AspNetCore\\AspNetCore_Kurs\\PluginSample_PluginDLL\\PluginSample_PluginDLL.csproj",
+        "projectUniqueName": "C:\\GitHub_Projects\\2020_10_26_AspNetCore\\AspNetCore_Kurs\\PluginSample_PluginDLL\\PluginSample_PluginDLL.csproj",
         "projectName": "PluginSample_PluginDLL",
-        "projectPath": "C:\\Aktueller Kurs\\2020_10_26_AspNetCore\\AspNetCore_Kurs\\PluginSample_PluginDLL\\PluginSample_PluginDLL.csproj",
+        "projectPath": "C:\\GitHub_Projects\\2020_10_26_AspNetCore\\AspNetCore_Kurs\\PluginSample_PluginDLL\\PluginSample_PluginDLL.csproj",
         "packagesPath": "C:\\Users\\KW4\\.nuget\\packages\\",
-        "outputPath": "C:\\Aktueller Kurs\\2020_10_26_AspNetCore\\AspNetCore_Kurs\\PluginSample_PluginDLL\\obj\\",
+        "outputPath": "C:\\GitHub_Projects\\2020_10_26_AspNetCore\\AspNetCore_Kurs\\PluginSample_PluginDLL\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -61,14 +61,14 @@
         }
       }
     },
-    "C:\\Aktueller Kurs\\2020_10_26_AspNetCore\\AspNetCore_Kurs\\PluginSample_TheApp_Console\\PluginSample_TheApp_Console.csproj": {
+    "C:\\GitHub_Projects\\2020_10_26_AspNetCore\\AspNetCore_Kurs\\PluginSample_TheApp_Console\\PluginSample_TheApp_Console.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Aktueller Kurs\\2020_10_26_AspNetCore\\AspNetCore_Kurs\\PluginSample_TheApp_Console\\PluginSample_TheApp_Console.csproj",
+        "projectUniqueName": "C:\\GitHub_Projects\\2020_10_26_AspNetCore\\AspNetCore_Kurs\\PluginSample_TheApp_Console\\PluginSample_TheApp_Console.csproj",
         "projectName": "PluginSample_TheApp_Console",
-        "projectPath": "C:\\Aktueller Kurs\\2020_10_26_AspNetCore\\AspNetCore_Kurs\\PluginSample_TheApp_Console\\PluginSample_TheApp_Console.csproj",
+        "projectPath": "C:\\GitHub_Projects\\2020_10_26_AspNetCore\\AspNetCore_Kurs\\PluginSample_TheApp_Console\\PluginSample_TheApp_Console.csproj",
         "packagesPath": "C:\\Users\\KW4\\.nuget\\packages\\",
-        "outputPath": "C:\\Aktueller Kurs\\2020_10_26_AspNetCore\\AspNetCore_Kurs\\PluginSample_TheApp_Console\\obj\\",
+        "outputPath": "C:\\GitHub_Projects\\2020_10_26_AspNetCore\\AspNetCore_Kurs\\PluginSample_TheApp_Console\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -89,11 +89,11 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Aktueller Kurs\\2020_10_26_AspNetCore\\AspNetCore_Kurs\\PluginSample_PluginDLL\\PluginSample_PluginDLL.csproj": {
-                "projectPath": "C:\\Aktueller Kurs\\2020_10_26_AspNetCore\\AspNetCore_Kurs\\PluginSample_PluginDLL\\PluginSample_PluginDLL.csproj"
+              "C:\\GitHub_Projects\\2020_10_26_AspNetCore\\AspNetCore_Kurs\\PluginSample_PluginDLL\\PluginSample_PluginDLL.csproj": {
+                "projectPath": "C:\\GitHub_Projects\\2020_10_26_AspNetCore\\AspNetCore_Kurs\\PluginSample_PluginDLL\\PluginSample_PluginDLL.csproj"
               },
-              "C:\\Aktueller Kurs\\2020_10_26_AspNetCore\\AspNetCore_Kurs\\PluginSample_ThePlugin\\PluginSample_ThePlugin.csproj": {
-                "projectPath": "C:\\Aktueller Kurs\\2020_10_26_AspNetCore\\AspNetCore_Kurs\\PluginSample_ThePlugin\\PluginSample_ThePlugin.csproj"
+              "C:\\GitHub_Projects\\2020_10_26_AspNetCore\\AspNetCore_Kurs\\PluginSample_ThePlugin\\PluginSample_ThePlugin.csproj": {
+                "projectPath": "C:\\GitHub_Projects\\2020_10_26_AspNetCore\\AspNetCore_Kurs\\PluginSample_ThePlugin\\PluginSample_ThePlugin.csproj"
               }
             }
           }
@@ -125,14 +125,14 @@
         }
       }
     },
-    "C:\\Aktueller Kurs\\2020_10_26_AspNetCore\\AspNetCore_Kurs\\PluginSample_ThePlugin\\PluginSample_ThePlugin.csproj": {
+    "C:\\GitHub_Projects\\2020_10_26_AspNetCore\\AspNetCore_Kurs\\PluginSample_ThePlugin\\PluginSample_ThePlugin.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Aktueller Kurs\\2020_10_26_AspNetCore\\AspNetCore_Kurs\\PluginSample_ThePlugin\\PluginSample_ThePlugin.csproj",
+        "projectUniqueName": "C:\\GitHub_Projects\\2020_10_26_AspNetCore\\AspNetCore_Kurs\\PluginSample_ThePlugin\\PluginSample_ThePlugin.csproj",
         "projectName": "PluginSample_ThePlugin",
-        "projectPath": "C:\\Aktueller Kurs\\2020_10_26_AspNetCore\\AspNetCore_Kurs\\PluginSample_ThePlugin\\PluginSample_ThePlugin.csproj",
+        "projectPath": "C:\\GitHub_Projects\\2020_10_26_AspNetCore\\AspNetCore_Kurs\\PluginSample_ThePlugin\\PluginSample_ThePlugin.csproj",
         "packagesPath": "C:\\Users\\KW4\\.nuget\\packages\\",
-        "outputPath": "C:\\Aktueller Kurs\\2020_10_26_AspNetCore\\AspNetCore_Kurs\\PluginSample_ThePlugin\\obj\\",
+        "outputPath": "C:\\GitHub_Projects\\2020_10_26_AspNetCore\\AspNetCore_Kurs\\PluginSample_ThePlugin\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -153,8 +153,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Aktueller Kurs\\2020_10_26_AspNetCore\\AspNetCore_Kurs\\PluginSample_PluginDLL\\PluginSample_PluginDLL.csproj": {
-                "projectPath": "C:\\Aktueller Kurs\\2020_10_26_AspNetCore\\AspNetCore_Kurs\\PluginSample_PluginDLL\\PluginSample_PluginDLL.csproj"
+              "C:\\GitHub_Projects\\2020_10_26_AspNetCore\\AspNetCore_Kurs\\PluginSample_PluginDLL\\PluginSample_PluginDLL.csproj": {
+                "projectPath": "C:\\GitHub_Projects\\2020_10_26_AspNetCore\\AspNetCore_Kurs\\PluginSample_PluginDLL\\PluginSample_PluginDLL.csproj"
               }
             }
           }

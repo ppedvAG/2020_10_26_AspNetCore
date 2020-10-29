@@ -9024,11 +9024,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Aktueller Kurs\\2020_10_26_AspNetCore\\AspNetCore_Kurs\\WebAPIBasics\\WebAPIBasics.csproj",
+      "projectUniqueName": "C:\\GitHub_Projects\\2020_10_26_AspNetCore\\AspNetCore_Kurs\\WebAPIBasics\\WebAPIBasics.csproj",
       "projectName": "WebAPIBasics",
-      "projectPath": "C:\\Aktueller Kurs\\2020_10_26_AspNetCore\\AspNetCore_Kurs\\WebAPIBasics\\WebAPIBasics.csproj",
+      "projectPath": "C:\\GitHub_Projects\\2020_10_26_AspNetCore\\AspNetCore_Kurs\\WebAPIBasics\\WebAPIBasics.csproj",
       "packagesPath": "C:\\Users\\KW4\\.nuget\\packages\\",
-      "outputPath": "C:\\Aktueller Kurs\\2020_10_26_AspNetCore\\AspNetCore_Kurs\\WebAPIBasics\\obj\\",
+      "outputPath": "C:\\GitHub_Projects\\2020_10_26_AspNetCore\\AspNetCore_Kurs\\WebAPIBasics\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -9049,8 +9049,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Aktueller Kurs\\2020_10_26_AspNetCore\\AspNetCore_Kurs\\MovieSharedLibrary\\MovieSharedLibrary.csproj": {
-              "projectPath": "C:\\Aktueller Kurs\\2020_10_26_AspNetCore\\AspNetCore_Kurs\\MovieSharedLibrary\\MovieSharedLibrary.csproj"
+            "C:\\GitHub_Projects\\2020_10_26_AspNetCore\\AspNetCore_Kurs\\MovieSharedLibrary\\MovieSharedLibrary.csproj": {
+              "projectPath": "C:\\GitHub_Projects\\2020_10_26_AspNetCore\\AspNetCore_Kurs\\MovieSharedLibrary\\MovieSharedLibrary.csproj"
             }
           }
         }

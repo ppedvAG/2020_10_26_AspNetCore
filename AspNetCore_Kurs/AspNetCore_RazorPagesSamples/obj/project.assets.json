@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Aktueller Kurs\\2020_10_26_AspNetCore\\AspNetCore_Kurs\\AspNetCore_RazorPagesSamples\\AspNetCore_RazorPagesSamples.csproj",
+      "projectUniqueName": "C:\\GitHub_Projects\\2020_10_26_AspNetCore\\AspNetCore_Kurs\\AspNetCore_RazorPagesSamples\\AspNetCore_RazorPagesSamples.csproj",
       "projectName": "AspNetCore_RazorPagesSamples",
-      "projectPath": "C:\\Aktueller Kurs\\2020_10_26_AspNetCore\\AspNetCore_Kurs\\AspNetCore_RazorPagesSamples\\AspNetCore_RazorPagesSamples.csproj",
+      "projectPath": "C:\\GitHub_Projects\\2020_10_26_AspNetCore\\AspNetCore_Kurs\\AspNetCore_RazorPagesSamples\\AspNetCore_RazorPagesSamples.csproj",
       "packagesPath": "C:\\Users\\KW4\\.nuget\\packages\\",
-      "outputPath": "C:\\Aktueller Kurs\\2020_10_26_AspNetCore\\AspNetCore_Kurs\\AspNetCore_RazorPagesSamples\\obj\\",
+      "outputPath": "C:\\GitHub_Projects\\2020_10_26_AspNetCore\\AspNetCore_Kurs\\AspNetCore_RazorPagesSamples\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",

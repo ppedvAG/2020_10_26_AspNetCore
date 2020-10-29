@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JhblXKHLFG17d9PrvN6klTbBxvJfTbljqKSlECT1rUdWxYfuGNJRVLLwaC6wGivXbeRvJtbJCjCX4JVrPVLTEg==",
+  "dgSpecHash": "1NuljM5kO/vfcdyprg+E4yaZswpWKla2XDfnIyZj/YADJk/hmMgtusPhbJenO1nFr8Zdj8M6UPiQyk+VD98Mwg==",
   "success": true,
-  "projectFilePath": "C:\\Aktueller Kurs\\2020_10_26_AspNetCore\\AspNetCore_Kurs\\NullableTypesSample\\NullableTypesSample.csproj",
+  "projectFilePath": "C:\\GitHub_Projects\\2020_10_26_AspNetCore\\AspNetCore_Kurs\\NullableTypesSample\\NullableTypesSample.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

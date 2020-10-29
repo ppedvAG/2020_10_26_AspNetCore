@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JTdC3l9/0w6LejLtgc2t0Oq2UDrTuo7M3UVooaNgESlVEMz4zYNAPxPfHJk0fwjUJlExfq4V/ux+nKBVX6nc7A==",
+  "dgSpecHash": "c5DLD7aFo+4I6HlADSE2ClDFPa4Fa8EqOmV1HYwpcJtVmfdKoejKQziwshjiy36yqkDTn8K8HBGFXY8x33TEuw==",
   "success": true,
-  "projectFilePath": "C:\\Aktueller Kurs\\2020_10_26_AspNetCore\\AspNetCore_Kurs\\PluginSample_TheApp_Console\\PluginSample_TheApp_Console.csproj",
+  "projectFilePath": "C:\\GitHub_Projects\\2020_10_26_AspNetCore\\AspNetCore_Kurs\\PluginSample_TheApp_Console\\PluginSample_TheApp_Console.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

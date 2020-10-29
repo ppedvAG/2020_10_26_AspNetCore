@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "yxiR4q9zEMgeKo/4RIlrKHVXfJ3rqXnUDUW2IG5iFf8mzRBSp05Ex8e88+DfZdi+ya5JRaDYAPkmokO56qfWhg==",
+  "dgSpecHash": "IJM2S05tbIR/cBuRvyJ+DEG/zF//ycc9ej0jfsIILe1PjesjMwR7fPaNbBj5wRbigEUe3vKHxDGA6DvfYyc+mA==",
   "success": true,
-  "projectFilePath": "C:\\Aktueller Kurs\\2020_10_26_AspNetCore\\AspNetCore_Kurs\\AspNetCore_ConfigurationSample\\AspNetCore_ConfigurationSample.csproj",
+  "projectFilePath": "C:\\GitHub_Projects\\2020_10_26_AspNetCore\\AspNetCore_Kurs\\AspNetCore_ConfigurationSample\\AspNetCore_ConfigurationSample.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\KW4\\.nuget\\packages\\microsoft.csharp\\4.0.1\\microsoft.csharp.4.0.1.nupkg.sha512",
     "C:\\Users\\KW4\\.nuget\\packages\\microsoft.dotnet.platformabstractions\\2.0.4\\microsoft.dotnet.platformabstractions.2.0.4.nupkg.sha512",

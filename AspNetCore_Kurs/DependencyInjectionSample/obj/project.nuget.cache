@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Jo5mnAbDnbtMVhXBIs3xUtBwfl6ZUyM+5fhn9ODJW2vvTQk7RPbaYRF5Z1y0RjHkDOQZzR5vzFvlj6rk0Lp3qQ==",
+  "dgSpecHash": "gENTugPhPa7cHuMylxnKZ8AlAQsBXA0olhJEuDHu8JnrtXdibMBE6KT2JV8k+5VrRy5NHEveTCYKusyUt5lxEA==",
   "success": true,
-  "projectFilePath": "C:\\Aktueller Kurs\\2020_10_26_AspNetCore\\AspNetCore_Kurs\\DependencyInjectionSample\\DependencyInjectionSample_Library.csproj",
+  "projectFilePath": "C:\\GitHub_Projects\\2020_10_26_AspNetCore\\AspNetCore_Kurs\\DependencyInjectionSample\\DependencyInjectionSample_Library.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

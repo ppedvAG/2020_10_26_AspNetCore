@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XeuTzGrV1Amm6b8T+2WxnLwl9SwsjHVNhznrxvk85tqsqU0vWmx/bX1BDNAShgNnvEg+elXEpAdkUsx7/Vmqfw==",
+  "dgSpecHash": "vMLmpCWP4+uYInWhwEBUTSdg2PtS7qApvLRVD46zIssy1R9OhwqJhtOIE/XMUM/KtAZu9GYEtqsaUiS8TxQAbQ==",
   "success": true,
-  "projectFilePath": "C:\\Aktueller Kurs\\2020_10_26_AspNetCore\\AspNetCore_Kurs\\MVCSamples\\MVCSamples.csproj",
+  "projectFilePath": "C:\\GitHub_Projects\\2020_10_26_AspNetCore\\AspNetCore_Kurs\\MVCSamples\\MVCSamples.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\KW4\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\KW4\\.nuget\\packages\\microsoft.aspnetcore.razor\\2.2.0\\microsoft.aspnetcore.razor.2.2.0.nupkg.sha512",

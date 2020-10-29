@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fRW/K7OI5sFyJhXRGtFapm4nGaq5YwrktY/0Yz5Mpn7IEWwZM3Fz/y1tP3AVG58Kr+1rBEZylRR/kWXEBOlNTw==",
+  "dgSpecHash": "6PrKoTuKXJMPCpJS67X1Y1nNsXEyLlRyXIv0+YpNeRmLRvj/nBEsPO+zvmVQ1HaFpLd7d0J+M2iB2c/mv9aRAA==",
   "success": true,
-  "projectFilePath": "C:\\Aktueller Kurs\\2020_10_26_AspNetCore\\AspNetCore_Kurs\\PluginSample_PluginDLL\\PluginSample_PluginDLL.csproj",
+  "projectFilePath": "C:\\GitHub_Projects\\2020_10_26_AspNetCore\\AspNetCore_Kurs\\PluginSample_PluginDLL\\PluginSample_PluginDLL.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
